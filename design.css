@@ -27,8 +27,8 @@ p{
 
 
 section{
-    height: 450px;
-    /*padding-bottom: 150px;*/
+    height: 550px;
+    padding-bottom: 150px;
 }
 
 
@@ -47,12 +47,16 @@ section{
 
 
 .background1{
-    /*background-image: url(Image/bg-heshajjad.png);*/                          /*background Image Need*/
+    background-image: url(GIF/Bird.gif);                          
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 550px;
     /*border: 5px solid red;*/
     /*background-repeat: no-repeat;*/
 }
 .dream-area{
-    background-color: ;                                                         /*background Image Need*/
+    background-image: url(GIF/Bird3.gif);       
+    background-repeat: no-repeat;                                          
 }
 
 .experience-area{
