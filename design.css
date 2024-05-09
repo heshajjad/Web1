@@ -6,15 +6,17 @@ body{
 
 
 nav{
-    background-image: linear-gradient(45deg, lightsalmon, orange);
-
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 100px;
+    padding-top: 25px;
 }
 nav ul{
     padding: 0%;
     margin: 0%; 
 }
 label.Logo{
-    color: white;
+    color: black;
     font-size: 35px;
     line-height: 80px;
     padding: 0 100px;
@@ -31,7 +33,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: white;
+    color: black;
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
@@ -140,7 +142,22 @@ section{
     padding-right: 10px;
 }
 
-footer p{
+#CC{
     text-align: center;
     color: black;
+}
+footer{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 300px;
+}
+
+.F-Div{
+    float: left;
+    padding-top: 45px;
+    padding-inline: 140px;
+}
+
+.F-Div a{
+    text-decoration: none;
 }
