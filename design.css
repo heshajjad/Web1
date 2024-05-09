@@ -97,7 +97,7 @@ section{
 .experience-area{
     background-color: ;
     display: flex;
-                                                          /*background Image Need*/
+    padding-right: 40px;                                                      /*background Image Need*/
 }
 
 .Hire{
