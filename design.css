@@ -95,7 +95,8 @@ section{
 }
 
 .experience-area{
-    background-color: ;                                                         /*background Image Need*/
+    background-color: ;
+    float: left;                                                         /*background Image Need*/
 }
 
 .Hire{
