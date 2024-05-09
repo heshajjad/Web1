@@ -5,7 +5,7 @@ body{
 
 
 h1{
-    color: white;
+    color: black;
 }
 
 .WebDesnDev{
@@ -13,15 +13,16 @@ h1{
 }
 
 #HeaderImg{
+   
 }
 
 h3{
-    color: white;
+    color: black;
 }
 
 
 p{
-    color: white;
+    color: black;
 }
 
 
@@ -46,16 +47,16 @@ section{
 
 
 .background1{
-    background-image: url(Image/bg-heshajjad.png);
+    /*background-image: url(Image/bg-heshajjad.png);*/                          /*background Image Need*/
     /*border: 5px solid red;*/
     /*background-repeat: no-repeat;*/
 }
 .dream-area{
-    background-color: #3D3D3D;
+    background-color: ;                                                         /*background Image Need*/
 }
 
 .experience-area{
-    background-color: #3D3D3D;
+    background-color: ;                                                         /*background Image Need*/
 }
 
 .Hire{
